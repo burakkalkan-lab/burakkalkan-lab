@@ -8,7 +8,7 @@
 
 *Turning legal AI prompts into traceable, reusable, human-supervised workflows.*
 
-[LinkedIn](https://www.linkedin.com/in/burakkalkann/) · [Instagram](https://www.instagram.com/burakwithai/) · [Open-source project](https://github.com/burakkalkan-lab/turkish-legal-artifacts)
+[LinkedIn](https://www.linkedin.com/in/burakkalkann/) · [Instagram](https://www.instagram.com/burakk_kkalkan/) · [Open-source project](https://github.com/burakkalkan-lab/turkish-legal-artifacts)
 
 </div>
 
