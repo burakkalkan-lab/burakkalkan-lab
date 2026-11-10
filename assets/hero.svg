@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+<title id="title">Burak Kalkan — LegalTech and AI Systems</title>
+<desc id="desc">Dark ink banner with lime accents, geometric workflow nodes, and human-review process diagram.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#121C24"/>
+    <stop offset="1" stop-color="#1B2B34"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#D7FB59" stop-opacity=".16"/><stop offset="1" stop-color="#D7FB59" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#F9F9F2" stroke-opacity=".055" stroke-width="1"/></pattern>
+</defs>
+<rect width="1400" height="420" rx="24" fill="url(#background)"/>
+<rect width="1400" height="420" rx="24" fill="url(#grid)"/>
+<ellipse cx="1135" cy="210" rx="480" ry="315" fill="url(#glow)"/>
+<rect x="50" y="44" width="128" height="28" rx="14" fill="#D7FB59"/>
+<text x="114" y="63" fill="#121C24" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="12" letter-spacing="2">PORTFOLIO</text>
+<circle cx="1330" cy="58" r="6" fill="#D7FB59"/>
+<circle cx="1310" cy="58" r="6" fill="#F9F9F2" fill-opacity=".25"/>
+<circle cx="1290" cy="58" r="6" fill="#F9F9F2" fill-opacity=".25"/>
+<text x="52" y="166" fill="#F9F9F2" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="64" letter-spacing="-3">BURAK KALKAN</text>
+<rect x="52" y="193" width="68" height="5" rx="2.5" fill="#D7FB59"/>
+<text x="52" y="241" fill="#D7FB59" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="26" letter-spacing=".4">LEGALTECH × AI SYSTEMS</text>
+<text x="52" y="294" fill="#F9F9F2" fill-opacity=".86" font-family="Arial,Helvetica,sans-serif" font-size="23">From prompts to accountable workflows.</text>
+<text x="52" y="355" fill="#F9F9F2" fill-opacity=".42" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2.3">BUILD · VERIFY · REVIEW · REPEAT</text>
+<g transform="translate(850,80)">
+  <rect x="0" y="0" width="492" height="280" rx="19" fill="#121C24" fill-opacity=".68" stroke="#F9F9F2" stroke-opacity=".17"/>
+  <circle cx="25" cy="23" r="4" fill="#D7FB59"/>
+  <text x="40" y="28" fill="#F9F9F2" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.5" fill-opacity=".7">TRACEABLE SYSTEM</text>
+  <path d="M 118 108 H 186 M 308 108 H 376 M 246 131 V 174" stroke="#D7FB59" stroke-opacity=".8" stroke-width="2" fill="none"/>
+  <path d="M 181 104 L 189 108 L 181 112 M 371 104 L 379 108 L 371 112 M 242 169 L 246 177 L 250 169" fill="none" stroke="#D7FB59" stroke-width="2"/>
+  <rect x="24" y="80" width="113" height="55" rx="11" fill="#22323B" stroke="#F9F9F2" stroke-opacity=".21"/>
+  <rect x="190" y="80" width="115" height="55" rx="11" fill="#22323B" stroke="#D7FB59" stroke-opacity=".5"/>
+  <rect x="360" y="80" width="112" height="55" rx="11" fill="#22323B" stroke="#F9F9F2" stroke-opacity=".21"/>
+  <text x="81" y="113" fill="#F9F9F2" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700">PROMPT</text>
+  <text x="248" y="105" fill="#D7FB59" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">SOURCE</text>
+  <text x="248" y="120" fill="#D7FB59" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">CHECK</text>
+  <text x="416" y="105" fill="#F9F9F2" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">EVIDENCE</text>
+  <text x="416" y="120" fill="#F9F9F2" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700">MAP</text>
+  <rect x="145" y="180" width="203" height="55" rx="13" fill="#D7FB59"/>
+  <circle cx="170" cy="207" r="11" fill="#121C24"/>
+  <path d="M 165 207 l4 4 l7 -8" fill="none" stroke="#D7FB59" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="264" y="212" fill="#121C24" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700">HUMAN REVIEW</text>
+  <text x="246" y="263" fill="#F9F9F2" fill-opacity=".55" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">HUMAN-IN-THE-LOOP</text>
+</g>
+</svg>
